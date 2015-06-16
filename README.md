@@ -26,3 +26,11 @@ Now available via any central Maven repo
         <artifactId>vngx-jsch</artifactId>
         <version>0.10</version>
     </dependency>
+
+Available from Android Studio
+=============================
+ just add the following to your build.gradle file under dependencies:
+
+    dependencies {
+        compile 'org.vngx:vngx-jsch:0.10'
+    }
